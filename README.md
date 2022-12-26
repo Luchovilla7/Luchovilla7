@@ -9,7 +9,7 @@
 
 - 📫 Como contactarme **luchovillalba7@gmail.com**
 
-- 📄 Conoce mis experiencias [https://lucianovillalba.com/assets/luciano-villalba-cv.pdf](https://lucianovillalba.com/assets/luciano-villalba-cv.pdf)
+- 📄 Conoce mis experiencias observando [mi CV](https://lucianovillalba.com/assets/luciano-villalba-cv.pdf)
 
 - ⚡ Dato curioso **Luciendo como Jesús, construí mi marca personal de desarrollador web como Yisus Code para hacer que el código sea un poco más divertido de aprender**
 
