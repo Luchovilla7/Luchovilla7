@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/luciano-villalba-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciano-villalba-dev" height="30" width="40" /></a>
 <a href="https://instagram.com/yisuscode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yisuscode" height="30" width="40" /></a>
-<a href="https://tiktok.com/yisuscode" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/t/61/tiktok.svg" alt="yisuscode" height="30" width="40" /></a>
+<a href="https://tiktok.com/@yisuscode" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/t/61/tiktok.svg" alt="yisuscode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Herramientas:</h3>
