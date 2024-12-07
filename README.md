@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **en cursos y experiencia académica en proyectos**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [mi Portfolio Web](https://lucianovillalba.com)
+- 👨‍💻 Todos mis proyectos están disponibles en [mi Portfolio Web](https://yisuscode.netlify.app)
 
 - 📫 Como contactarme **luchovillalba7@gmail.com**
 
