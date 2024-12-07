@@ -11,8 +11,6 @@
 
 - 📄 Conoce mis experiencias observando [mi CV](https://lucianovillalba.com/assets/luciano-villalba-cv.pdf)
 
-- ⚡ Dato curioso **Luciendo como Jesús, construí mi marca personal de desarrollador web como Yisus Code para hacer que el código sea un poco más divertido de aprender**
-
 <h3 align="left">Conéctese conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/luciano-villalba-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciano-villalba-dev" height="30" width="40" /></a>
