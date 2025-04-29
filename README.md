@@ -5,17 +5,14 @@
 
 - 🌱 Actualmente estoy aprendiendo **en cursos y experiencia académica en proyectos**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [mi Portfolio Web](https://yisuscode.netlify.app)
+- 👨‍💻 Todos mis proyectos están disponibles en [mi Sitio Web](https://lucianovillalba.com)
 
-- 📫 Como contactarme **luchovillalba7@gmail.com**
-
-- 📄 Conoce mis experiencias observando [mi CV](https://lucianovillalba.com/assets/luciano-villalba-cv.pdf)
+- 📫 Como contactarme **hola@lucianovillalba.com**
 
 <h3 align="left">Conéctese conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/luciano-villalba-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciano-villalba-dev" height="30" width="40" /></a>
-<a href="https://instagram.com/yisuscode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yisuscode" height="30" width="40" /></a>
-<a href="https://tiktok.com/@yisuscode" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/t/61/tiktok.svg" alt="yisuscode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lucianovillalba-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciano-villalba-dev" height="30" width="40" /></a>
+<a href="https://instagram.com/lucianovillalba.web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yisuscode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Herramientas:</h3>
